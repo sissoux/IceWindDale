@@ -1,0 +1,4 @@
+- L'objet émet une lumière vive dans un rayon de 1,50 mètre et une lumière faible sur 1,50 mètre supplémentaire.
+- Lorsqu'une créature le tapote, l'objet émet un message enregistré qui peut être entendu jusqu'à 3 mètres. Vous prononcez le message lorsque vous conférez cette propriété à l'objet, et l'enregistrement ne peut durer plus de 6 secondes.
+- L'objet émet continuellement, au choix, une odeur ou un son non verbal (bruit de vent, de vagues, gazouillis, etc). L'effet choisi est perceptible jusqu'à 3 mètres.
+- Un effet visuel statique apparaît sur l'une des surfaces de l'objet. Cet effet peut être une image, un texte (jusqu'à 25 mots), des lignes et des formes, ou encore un mélange à votre guise de ces éléments.
