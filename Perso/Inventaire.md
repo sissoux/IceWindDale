@@ -25,7 +25,7 @@ Il y a des sacrifices au nom d'Auril. Eroan Varel est fugitif car il ne veut pas
 
 Dans le campement abandonné sur la route de bryn shanders après le
 ~~28po 33 Pa~~ 
-1 anneau (Double 1 pour identification... LOL)
+~~1 anneau (Double 1 pour identification... LOL)~~
 1 pierre semi precieuse (Topaze 10/15 po)
 
 Un des lingots de fer (20pa)
